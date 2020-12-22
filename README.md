@@ -1,4 +1,4 @@
-# Administración de citas para pacientes
+# Administración del presupuesto
 
 ## Una versión hecha en React para realizar un presupuesto y restar todos los gasto
 
